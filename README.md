@@ -2,19 +2,19 @@
 ### Cross-Platform Mobile Group Budgeting and Expense Tracking App  
 ### Key Features  
 
-#### Group Financial Management  
+- #### Group Financial Management  
 
 - Create and manage group budgets  
 - Track group spending habits  
 - Transparently confirm payments between group members  
 
 
-##### Budget Types  
+- ##### Budget Types  
 - Event-based budgets (e.g., road trips, movie outings)  
 - Recurring budgets (e.g., rent, utilities, subscriptions)  
 - Detailed category and subcategory tracking  
 
-##### Democratic Financial Decision Making  
+- ##### Democratic Financial Decision Making  
 - Group members can petition to edit budgets  
 - Transactions require mutual confirmation  
 - Promotes accountability and transparency  
@@ -37,13 +37,13 @@
 
 ### Technical Stack  
 
-**Platform:** Expo Go (Cross-platform iOS and Android)  
+- **Platform:** Expo Go (Cross-platform iOS and Android)  
 
-**Frontend:**  
+- **Frontend:**  
 - React Native  
 - TypeScript  
   
-**Backend:**  
+- **Backend:**  
 - Firebase Firestore  
 - TypeScript Firebase functions
 
