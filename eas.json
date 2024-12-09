@@ -1,0 +1,33 @@
+{
+  "cli": {
+    "version": ">= 13.1.1",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "testing": {
+      "autoIncrement": true,
+      "developmentClient": true,
+      "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_FIREBASE_KEY": "EXPO_PUBLIC_FIREBASE_KEY",
+        "EXPO_PUBLIC_FIREBASE_AUTHDOMAIN": "EXPO_PUBLIC_FIREBASE_AUTHDOMAIN",
+        "EXPO_PUBLIC_FIREBASE_PROJECTID": "EXPO_PUBLIC_FIREBASE_PROJECTID",
+        "EXPO_PUBLIC_FIREBASE_STORAGEBUCKET": "EXPO_PUBLIC_FIREBASE_STORAGEBUCKET",
+        "EXPO_PUBLIC_FIREBASE_SENDERID": "EXPO_PUBLIC_FIREBASE_SENDERID",
+        "EXPO_PUBLIC_FIREBASE_APPID": "EXPO_PUBLIC_FIREBASE_APPID"
+      },
+      "channel": "development"
+    },
+    "preview": {
+      "distribution": "internal",
+      "channel": "preview"
+    },
+    "production": {
+      "autoIncrement": true,
+      "channel": "production"
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
