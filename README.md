@@ -1,27 +1,27 @@
 # CSS 496 Capstone Project (Autumn 2024): UniFund  
 ### Cross-Platform Mobile Group Budgeting and Expense Tracking App  
-#### Key Features  
+### Key Features  
 
-##### Group Financial Management  
+#### Group Financial Management  
 
 - Create and manage group budgets  
 - Track group spending habits  
 - Transparently confirm payments between group members  
 
 
-###### Budget Types  
+##### Budget Types  
 - Event-based budgets (e.g., road trips, movie outings)  
 - Recurring budgets (e.g., rent, utilities, subscriptions)  
 - Detailed category and subcategory tracking  
 
-###### Democratic Financial Decision Making  
+##### Democratic Financial Decision Making  
 - Group members can petition to edit budgets  
 - Transactions require mutual confirmation  
 - Promotes accountability and transparency  
 
 
 
-##### Core Functionalities  
+#### Core Functionalities  
 - User authentication and profile management  
 - Group creation and invitation system  
 - Budget creation and management
@@ -31,11 +31,11 @@
   - Category and subcategory allocation  
 
 
-##### Expense logging and splitting  
+#### Expense logging and splitting  
 - Transaction tracking with mutual confirmation  
 - Notification system for group invites and updates  
 
-##### Technical Stack  
+### Technical Stack  
 
 **Platform:** Expo Go (Cross-platform iOS and Android)  
 
@@ -47,7 +47,7 @@
 - Firebase Firestore  
 - TypeScript Firebase functions
 
-##### Project Motivation
+### Project Motivation
 The application was developed to solve real-world financial challenges faced by groups, particularly:
 
 - Reducing financial stress in shared living situations
