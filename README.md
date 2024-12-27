@@ -2,7 +2,7 @@
 ## Cross-Platform Mobile Group Budgeting and Expense Tracking App  
 ![](assets/usage.png)
 ## Scan this image with your mobile device to try out UniFund. 
-# *Note: Expo Go must be downloaded on your device
+### *Note: Expo Go must be downloaded on your device
 ## Key Features  
 
 ### Group Financial Management  
