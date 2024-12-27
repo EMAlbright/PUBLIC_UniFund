@@ -1,5 +1,6 @@
 # CSS 496 Capstone Project (Autumn 2024): UniFund  
 ## Cross-Platform Mobile Group Budgeting and Expense Tracking App  
+![Scan this image with your mobile device to try out UniFund. Note*: Expo Go must be downloaded on your device](assets/usage.png)
 ## Key Features  
 
 ### Group Financial Management  
